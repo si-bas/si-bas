@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @si-bas
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript - NodeJS
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me abdurrohim.saifi@avocacode.com
 
 <!---
